@@ -1,0 +1,25 @@
+Content-Type: text/html; charset=utf-8
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Tue, 24 Dec 2024 17:47:39 GMT
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: require-trusted-types-for 'script'
+Accept-Ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Vary: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Origin-Trial: AmhMBR6zCLzDDxpW+HfpP67BqwIknWnyMOXOQGfzYswFmJe+fgaI6XZgAzcxOrzNtP7hEDsOo1jdjFnVr2IdxQ4AAAB4eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJXZWJWaWV3WFJlcXVlc3RlZFdpdGhEZXByZWNhdGlvbiIsImV4cGlyeSI6MTc1ODA2NzE5OSwiaXNTdWJkb21haW4iOnRydWV9
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+Cross-Origin-Opener-Policy: same-origin-allow-popups; report-to="youtube_main"
+Report-To: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en-GB for more info."
+Content-Encoding: gzip
+Server: ESF
+X-Xss-Protection: 0
+Set-Cookie: GPS=1; Domain=.youtube.com; Expires=Tue, 24-Dec-2024 18:17:39 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: YSC=VLIRdGgUqSw; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none; Partitioned
+Set-Cookie: __Secure-ROLLOUT_TOKEN=CIGo5pKg1cPrNRDw0Kis-8CKAxjw0Kis-8CKAw%3D%3D; Domain=youtube.com; Expires=Sun, 22-Jun-2025 17:47:39 GMT; Path=/; Secure; HttpOnly; SameSite=none; Partitioned
+Set-Cookie: VISITOR_INFO1_LIVE=ae70UAhrdnU; Domain=.youtube.com; Expires=Sun, 22-Jun-2025 17:47:39 GMT; Path=/; Secure; HttpOnly; SameSite=none; Partitioned
+Set-Cookie: VISITOR_PRIVACY_METADATA=CgJJThIEGgAgZQ%3D%3D; Domain=.youtube.com; Expires=Sun, 22-Jun-2025 17:47:39 GMT; Path=/; Secure; HttpOnly; SameSite=none; Partitioned
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
